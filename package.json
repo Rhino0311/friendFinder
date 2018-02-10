@@ -1,0 +1,27 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "api-routes": "^0.2.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "routes-js": "^0.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rhino0311/friendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rhino0311/friendFinder/issues"
+  },
+  "homepage": "https://github.com/Rhino0311/friendFinder#readme"
+}
